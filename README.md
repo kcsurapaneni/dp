@@ -11,3 +11,7 @@
 # Videos
 
 - [Spring Modulith – A Deep Dive (Workshop)](https://youtu.be/430YOyMNjhs?si=T6ZC9vahW2j8YPEQ)
+
+# Other Importnat Links
+
+- [Two Phase Commit](https://martinfowler.com/articles/patterns-of-distributed-systems/two-phase-commit.html)
